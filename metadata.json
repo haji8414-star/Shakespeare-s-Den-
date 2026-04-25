@@ -1,0 +1,12 @@
+{
+  "name": "Shakespeare's Den",
+  "description": "A premium AI-powered English learning app by Mahmood Khan Kakar, focusing on BICS and CALP progression through Language Islands and Tenses.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered language tutoring",
+    "Voice recognition and synthesis",
+    "Comprehensive English curriculum"
+  ]
+}
